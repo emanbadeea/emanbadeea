@@ -1,5 +1,5 @@
 <p width="400">
-  <h1>Hi 👋, I'm Eman badeea</h1>
+  <h1>Hi 👋, I'm Eman Badeea</h1>
 <h3>FrontEnd developer from Egypt</h3>
 <h3><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=300&lines=I'm+FrontEnd+Developer;"/></h3>
 </p>
