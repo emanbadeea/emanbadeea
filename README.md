@@ -5,12 +5,12 @@
 </p>
 <a href="https://app.daily.dev/EmanBadeea"><img src="https://api.daily.dev/devcards/19833aec241d4961a25a78a16093506b.png?r=2jj" width="400" alt="Eman Badeea's Dev Card"/></a>
 <p style="margin-bottom: 20px">
-  <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=El-SayedChelsea7&theme=github_dark"  width="100%" alt="El-SayedChelsea7" /></p>
+  <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emanbadeea&theme=github_dark"  width="100%" alt="emanbadeea" /></p>
   
 
 
 <p align="center">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=El-SayedChelsea7&theme=github_dark" width="30%" alt="El-SayedChelsea7" />
-  <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=El-SayedChelsea7&theme=github_dark"  width="30%" alt="El-SayedChelsea7" />
-  <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=El-SayedChelsea7&theme=github_dark"  width="30%" alt="El-SayedChelsea7" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=emanbadeea&theme=github_dark" width="30%" alt="emanbadeea" />
+  <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=emanbadeea&theme=github_dark"  width="30%" alt="emanbadeea" />
+  <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=emanbadeea&theme=github_dark"  width="30%" alt="emanbadeea" />
 </p>
