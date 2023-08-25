@@ -3,7 +3,7 @@
 <h3>FrontEnd developer from Egypt</h3>
 <h3><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=300&lines=I'm+FrontEnd+Developer;"/></h3>
 </p>
-<a href="https://app.daily.dev/elsayedchelsea"><img src="https://api.daily.dev/devcards/634d48c95a5e4fe3b7a95b25c755319f.png?r=9ov" width="400" alt="El-Sayed Chelsea's Dev Card"/></a>
+<a href="https://app.daily.dev/EmanBadeea"><img src="https://api.daily.dev/devcards/19833aec241d4961a25a78a16093506b.png?r=2jj" width="400" alt="Eman Badeea's Dev Card"/></a>
 <p style="margin-bottom: 20px">
   <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=El-SayedChelsea7&theme=github_dark"  width="100%" alt="El-SayedChelsea7" /></p>
   
